@@ -1,5 +1,5 @@
 # Tyck (Type Check) - A TypeScript-style Pydantic Wrapper
-
+ 
 A Simpliled API for Pydantic validation that makes it easier to define schemas with method chaining while maintaining full compatibility with Pydantic's features.
 
 ## Quick Start
